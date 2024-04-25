@@ -1,0 +1,999 @@
+﻿  BookShopManagmentSystem.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(238,17): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(330,77): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(333,69): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsLoginScreen.h(40,15): warning C4101: 'AccountBalance': unreferenced local variable
+  (compiling source file 'BookShopManagmentSystem.cpp')
+  
+  clsAddNewBookScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsAddNewBookScreen.cpp')
+  
+  clsAddNewSupplierScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewSupplierScreen.cpp')
+  
+  clsBook.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsBook.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsBook.cpp')
+  
+  clsBooksScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsBooksScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsBooksScreen.cpp')
+  
+  clsCancelOrderScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsCancelOrderScreen.cpp')
+  
+  clsDate.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+  clsDeleteBookScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsDeleteBookScreen.cpp')
+  
+  clsDeleteSupplierScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteSupplierScreen.cpp')
+  
+  clsFindBookScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsFindBookScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsFindBookScreen.cpp')
+  
+  clsFindSupplierScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindSupplierScreen.cpp')
+  
+  clsInputValidate.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+  clsLoginScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsLoginScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(238,17): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(330,77): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(333,69): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsLoginScreen.h(40,15): warning C4101: 'AccountBalance': unreferenced local variable
+  (compiling source file 'clsLoginScreen.cpp')
+  
+  clsMainScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(238,17): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(330,77): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsMainScreen.h(333,69): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+  clsMyCollectionsScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsMyCollectionsScreen.cpp')
+  
+  clsMyProfileScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMyProfileScreen.cpp')
+  
+  clsNewOrderScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsNewOrderScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsNewOrderScreen.cpp')
+  
+  clsPerson.cpp
+  clsPurchaseScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsPurchaseScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsPurchaseScreen.cpp')
+  
+  clsSalesScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsSalesScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsSalesScreen.cpp')
+  
+  Generating Code...
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsLoginScreen.h(155,1): warning C4715: 'clsLoginScreen::ShowLoginSignUpScreen': not all control paths return a value
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsLoginScreen.h(89,1): warning C4715: 'clsLoginScreen::_SignUp': not all control paths return a value
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(313,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(528,1): warning C4715: 'clsBook::Save': not all control paths return a value
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsSupplier.h(296,1): warning C4715: 'clsSupplier::Save': not all control paths return a value
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(335,1): warning C4715: 'clsUser::Withdraw': not all control paths return a value
+  Compiling...
+  clsScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+  clsString.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+  clsSupplier.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSupplier.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSupplier.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSupplier.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSupplier.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSupplier.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSupplier.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsSupplier.cpp')
+  
+  clsSuppliersListScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsSuppliersListScreen.cpp')
+  
+  clsSuppliersScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsSuppliersScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsSuppliersScreen.cpp')
+  
+  clsUpdateBookScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(644,12): warning C4240: nonstandard extension used: access to 'clsBook::stTotalSalesInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(24,12):
+  see declaration of 'clsBook::stTotalSalesInfo'
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(69,44): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(70,39): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsBook.h(200,17): warning C4244: 'argument': conversion from 'long' to 'short', possible loss of data
+  (compiling source file 'clsUpdateBookScreen.cpp')
+  
+  clsUpdateSupplierScreen.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateSupplierScreen.cpp')
+  
+  clsUser.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUser.h(339,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+  clsUtil.cpp
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsUtil.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\VICTUS\Desktop\BookShopManagmentSystem\BookShopManagmentSystem\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+  Generating Code...
+  BookShopManagmentSystem.vcxproj -> C:\Users\VICTUS\Desktop\BookShopManagmentSystem\x64\Debug\BookShopManagmentSystem.exe

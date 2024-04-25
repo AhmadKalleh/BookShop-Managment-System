@@ -1,0 +1,1 @@
+#include "clsMyCollectionsScreen.h"
